@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FullStack_bootcamp.iml" filepath="$PROJECT_DIR$/FullStack_bootcamp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC_PRJ/JDBC_PRJ.iml" filepath="$PROJECT_DIR$/JDBC_PRJ/JDBC_PRJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day8/day8.iml" filepath="$PROJECT_DIR$/day8/day8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysql_prj/mysql_prj.iml" filepath="$PROJECT_DIR$/mysql_prj/mysql_prj.iml" />
+    </modules>
+  </component>
+</project>

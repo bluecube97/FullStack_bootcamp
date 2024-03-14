@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="FullStack_bootcamp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mysql-connector-j-8.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/240314 쪽지시험.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
