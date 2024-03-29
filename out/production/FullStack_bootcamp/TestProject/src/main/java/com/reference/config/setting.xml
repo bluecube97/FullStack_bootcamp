@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<config>
-	<userDAO>com.user.dao.userDAOImpl</userDAO>
-	<boardDAO>com.board.dao.boardDAOImpl</boardDAO>
-</config>
